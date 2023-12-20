@@ -1,6 +1,6 @@
 
 import { Card, CardBody } from '@nextui-org/react';
-import video from '../assets/img/video2.mp4'
+import video from '../assets/img/video3.mp4'
 
 
 const VidHead2 = () => {
